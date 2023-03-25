@@ -15,5 +15,4 @@ Introducing my latest project, a fully functional chat UI app built with Flutter
 
 ## Demo
 <img align="right" alt="Coding" width="400" src="https://github.com/KankareDEV/QuizApp/blob/master/chattapp1.gif">
-<img align="left" alt="Coding" width="400" src="https://github.com/KankareDEV/QuizApp/blob/master/chattapp4.gif">
-
+<img align="left" alt="Coding" width="400" src="[https://github.com/KankareDEV/QuizApp/blob/master/chattapp4.gif]">
