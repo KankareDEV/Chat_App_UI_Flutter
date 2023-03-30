@@ -1,7 +1,5 @@
 
 ## Flutter Chat UI
-## Appendix
-
 Introducing my latest project, a fully functional chat UI app built with Flutter. With its sleek blue shade color scheme and toggleable light and dark modes, the app offers a seamless and engaging user experience. The animated button made with Lottie files adds a touch of fun and interactivity, while the chat function is robust and allows users to send emojis and messages with ease. The app also includes a settings section where users can view their profile image and other details. Overall, this chat UI app is a testament to my skills as a developer and my commitment to creating exceptional user experiences. Try it out for yourself and see what all the fuss is about! :)
 
 
